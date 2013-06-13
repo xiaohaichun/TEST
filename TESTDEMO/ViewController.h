@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 {
-    
+    UIView *helloView;
 }
 
 @end
