@@ -12,6 +12,7 @@
 {
     UIView *helloView;
     UIButton *helloBtn;
+    UILabel *helloLabel;
 }
 
 @end
