@@ -14,6 +14,7 @@
     UIButton *helloBtn;
     UILabel *helloLabel;
     UILabel *secondLabel;
+    UILabel *thirdLabel;
 }
 
 @end
